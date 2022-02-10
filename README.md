@@ -61,6 +61,7 @@ Here are some ideas to get you started:
                                                          
 ```
 
+<details> <summary> 🔱 gιтнυв ѕтαтѕ 🔱 </summary>
 <h2 align="center"><b>🔰 GITHUB STATS 🔰
 <br>
 <br>
@@ -77,11 +78,12 @@ Here are some ideas to get you started:
 
 <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=xNKIT&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 
+  </details>
 </a>
 </b></h2>  
 
 
-<h2 align="center"><b>🔰 TOOL'S AND LANGUAGE I LOVE 🔰
+<h2 align="center"><b>🔰 тσσℓ'ѕ αи∂ ℓαиgυαgє ι ℓσνє 🔰
   <br>
   <br>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
