@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center"><b> 🔰 Personal Information 🔰 </b></h2>
+<h2 align="center"><b> 🔰 ρεяsσηαℓ ιηғσямαтιση 🔰 </b></h2>
 
 <p align='Middle'><a href='https://github.com/xNKIT'><img src='https://telegra.ph/file/80004ad9a6f02b5f48283.jpg' width='600"'></a></p>
 
@@ -49,20 +49,21 @@ Here are some ideas to get you started:
 <br>
 
 ``` 
-   ┏━━━━━━━━━━━♠️ABOUT ME♠️━━━━━━━━━━━┓
+   ┏━━━━━━━━━━━♠️αвσυт мε♠️━━━━━━━━━━━┓
                                                           
-   ┣🌷        Name    : "ANKIT KUMAR"
+   ┣🌷        ηαмε    : "αηкιт кυмαя"
                                                           
-   ┣🌷        Age      : "14"
+   ┣🌷        αgε     : "14"
   
-   ┣🌷        Class   : "9TH "
+   ┣🌷        cℓαss   : "9тн "
                          
-   ┗━━━━━━━━━━♠ANKIT KUMAR♠️ ━━━━━━━━━┛
+   ┗━━━━━━━━━━♠αηкιт кυмαя♠️ ━━━━━━━━━┛
                                                          
 ```
+<h2 align="center"><b> 🔰 gιтнυв sтαтs 🔰 </b></h2>
 
-<details> <summary> 🔱 gιтнυв ѕтαтѕ 🔱 </summary>
-<h2 align="center"><b>🔰 GITHUB STATS 🔰
+
+<h2 align="center"><b
 <br>
 <br>
   
