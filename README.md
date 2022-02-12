@@ -20,9 +20,9 @@
 <h2 align="center"><b> 🔰 gιтнυв sтαтs 🔰 </b></h2>
 
 
-<h2 align="center"><b
-<br>
-<br>
+
+
+
   
 ----
 ![GitHub followers](https://img.shields.io/github/followers/xNKIT?label=Follow&style=social)
