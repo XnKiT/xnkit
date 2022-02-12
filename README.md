@@ -1,6 +1,6 @@
 <h2 align="center"><b> 🔰 ρεяsσηαℓ ιηғσямαтιση 🔰 </b></h2>
 
-<p align='Middle'><a href='https://github.com/xNKIT'><img src='https://telegra.ph/file/80004ad9a6f02b5f48283.jpg' width='600"'></a></p>
+<p align='Middle'><a href='https://github.com/xNKIT'><img src='https://telegra.ph/file/80004ad9a6f02b5f48283.jpg' width='500"'></a></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
