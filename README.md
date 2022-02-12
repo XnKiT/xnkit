@@ -1,44 +1,3 @@
-
-
-<!--
-**xNKIT/xNKIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<!--
-**LEGEND-ANKIT/LEGEND-ANKIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
-
-
 <h2 align="center"><b> 🔰 ρεяsσηαℓ ιηғσямαтιση 🔰 </b></h2>
 
 <p align='Middle'><a href='https://github.com/xNKIT'><img src='https://telegra.ph/file/80004ad9a6f02b5f48283.jpg' width='600"'></a></p>
@@ -49,16 +8,14 @@ Here are some ideas to get you started:
 <br>
 
 ``` 
-   ┏━━━━━━━━━━━♠️αвσυт мε♠️━━━━━━━━━━━┓
-                                                          
-   ┣🌷        ηαмε    : "αηкιт кυмαя"
-                                                          
-   ┣🌷        αgε     : "14"
-  
-   ┣🌷        cℓαss   : "9тн "
-                         
-   ┗━━━━━━━━━━♠αηкιт кυмαя♠️ ━━━━━━━━━┛
-                                                         
+     ╔════❰αвσυт мє❱═══❍⊱❁۪۪
+     ║┣⪼ иαмє - αикιт кυмαя
+     ║┣⪼ αgє - 14
+     ║┣⪼ ¢ℓαѕѕ - 9тн
+     ║┣⪼ ∂σв - 8 נυиє
+     ║┣⪼ ℓσ¢αтισи - ιи∂ια [ 🇮🇳 ]
+     ║╰━━━━━━━━━━━━━━━➣
+     ╚══════════════════❍⊱
 ```
 <h2 align="center"><b> 🔰 gιтнυв sтαтs 🔰 </b></h2>
 
