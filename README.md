@@ -17,14 +17,13 @@
 `````
 ______________________________________________________________________
 
-<details>
-<summary>🔰 gιтнυв sтαтs 🔰</summary>
-<h2 align="center"><b>🔰 gιтнυв sтαтs 🔰<h2 align="center"><b><br><br>
+<details><summary><h2 align="center"><b> 🔰 gιтнυв sтαтs 🔰 </b></h2></summary>
+<h2 align="center"><b
+<br>
+<br>
 
   [![xNKIT Followers](https://img.shields.io/github/followers/xNKIT?label=Follow&style=social)](https://github.com/xNKIT)
   [![xNKIT PROFILE VIEWS](https://komarev.com/ghpvc/?username=xKIT&label=Profile%20views)](https://github.com/xNKIT)
   [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=xNKIT&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400)](https://github.com/xNKIT)
-  
-  </a>
-</b></h2>  
+
 </details>
