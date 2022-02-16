@@ -53,11 +53,12 @@ ________________________________________________________________________________
   
 __________________________________________________________________________________________________________________________
   
-<details><summary><h2 align="center"><b> 🔰 cσηтαcт мε 🔰 </b></h2></summary>
+<details><summary><h2 align="center"><b> 🔰 cσηтαcт мε ση🔰 </b></h2></summary>
 <h2 align="center"><b
 <br>
 <br>
   
-  [!EMAIL](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Black)](dxnkitkumar@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:xnkitkumar@gmail.com)
+  
   
   </details>
