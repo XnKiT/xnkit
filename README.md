@@ -25,7 +25,20 @@ ________________________________________________________________________________
   [![xNKIT Followers](https://img.shields.io/github/followers/xNKIT?label=Follow&style=social)](https://github.com/xNKIT)
   [![xNKIT PROFILE VIEWS](https://komarev.com/ghpvc/?username=xKIT&label=Profile%20views)](https://github.com/xNKIT)
   [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=xNKIT&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400)](https://github.com/xNKIT)
-
+  [![xNKIT GITHUB STREAK](https://github-readme-streak-stats.herokuapp.com/?user=xNKIT&theme=midnight-purple&show_icon=true)](https://github.com/xNKIT)
+  
 </details>
 
 __________________________________________________________________________________________________________________________
+
+<details><summary><h2 align="center"><b> 🔰 мσsт υsε∂ ℓαηgυαgεs 🔰 </b></h2></summary>
+<h2 align="center"><b
+<br>
+<br>
+  
+  [![MOST USED LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=xNKIT&layout=compact&theme=midnight-purple)](https://github.com/xNKIT)
+  
+  </details>
+  
+__________________________________________________________________________________________________________________________
+  
