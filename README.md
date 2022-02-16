@@ -59,6 +59,8 @@ ________________________________________________________________________________
 <br>
   
   [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:xnkitkumar@gmail.com)
-  
-  
+  [![TELEGRAM](https://img.shields.io/badge/Telegram-252422?style=for-the-badge&logo=telegram&logocolor=white)](tg://openmessage?user_id=2127221861)
+  [![TELEGRAM](https://img.shields.io/badge/Telegram-252422?style=for-the-badge&logo=telegram&logocolor=white)](tg://openmessage?user_id=5035281405)
+  [![REPLIT](https://img.shields.io/badge/Replit-252422?style=for-the-badge&logo=replit&logocolor=white)](https://repl.it/@AnKiT-oS)
+
   </details>
