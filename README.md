@@ -29,14 +29,15 @@
 ----
 ![GitHub followers](https://img.shields.io/github/followers/xNKIT?label=Follow&style=social)
 [![Profile views](https://komarev.com/ghpvc/?username=xKIT&label=Profile%20views)](https://github.com/xNKIT)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=xNKIT)
+
 ![Ankit's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=xNKIT&theme=midnight-purple&show_icon=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xNKIT&layout=compact&theme=midnight-purple)](https://github.com/xNKIT)
-
-
-
 <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=xNKIT&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=xNKIT)
+
+
+
+
 
   </details>
 </a>
