@@ -27,7 +27,7 @@ ________________________________________________________________________________
   [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=xNKIT&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400)](https://github.com/xNKIT)
   [![xNKIT GITHUB STREAK](https://github-readme-streak-stats.herokuapp.com/?user=xNKIT&theme=chartreuse-dark&show_icon=true)](https://github.com/xNKIT)
   
-</details>
+  </details>
 
 __________________________________________________________________________________________________________________________
 
@@ -38,7 +38,7 @@ ________________________________________________________________________________
   
   [![MOST USED LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=xNKIT&layout=compact&theme=chartreuse-dark)](https://github.com/xNKIT)
   
-  </details>
+   </details>
   
 __________________________________________________________________________________________________________________________
 
@@ -49,7 +49,15 @@ ________________________________________________________________________________
   
 [![TROPHY](https://github-profile-trophy.vercel.app/?username=xNKIT)](https://github.com/xNKIT)
   
- </details>
+  </details>
   
 __________________________________________________________________________________________________________________________
   
+<details><summary><h2 align="center"><b> 🔰 cσηтαcт мε 🔰 </b></h2></summary>
+<h2 align="center"><b
+<br>
+<br>
+  
+  [!EMAIL](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Black)](dxnkitkumar@gmail.com)
+  
+  </details>
