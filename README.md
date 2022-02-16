@@ -19,7 +19,7 @@ ______________________________________________________________________
 
 <details>
 <summary>🔰 gιтнυв sтαтs 🔰</summary>
-<h2 align="center"><b> <h2 align="center"><b>
+<h2 align="center"><b>🔰 gιтнυв sтαтs 🔰<h2 align="center"><b>
   <br>
   <br>
   
