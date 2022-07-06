@@ -11,10 +11,16 @@
 <br>
 
 ```
-Name = "Ankit Kumar"
-Class = "10th"
-Age = "15"
-Country = "🇮🇳"
+
+   ┏━━━━━━━━━━━♠️ABOUT ME♠️━━━━━━━━━━━┓
+                                                          
+   ┣🌷        Name    : "ANKIT KUMAR"
+                                                          
+   ┣🌷        Age      : "14"
+  
+   ┣🌷        Class   : "9TH "
+                         
+   ┗━━━━━━━━━━♠ANKIT KUMAR♠️ ━━━━━━━━━┛
 ```
 
 <details>
