@@ -1,7 +1,8 @@
 <h2 align="center"><b>Personal Information 👨‍💻</b></h2>
 
 
-<p align='Middle'><a href='https://github.com/XnKiT><img src='https://te.legra.ph/file/d0444c91a852f32e46efa.jpg' width='750"'></a></p>
+<p align='Middle'><a href='https://github.com/xNKIT'><img src='https://te.legra.ph/file/d0444c91a852f32e46efa.jpg' width='500"'></a></p>
+
 
   
 <p align="center">
