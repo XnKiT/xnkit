@@ -52,7 +52,7 @@ Country = "🇮🇳"
   <br>
   
   
-[![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](xnkitkumar@gmail.com)</b></h2>
+[![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](mailto:xnkitkumar@gmail.com)</b></h2>
 </details>
 
 
