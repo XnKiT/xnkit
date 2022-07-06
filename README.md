@@ -23,9 +23,8 @@
    ┗━━━━━━━━━━♠ANKIT KUMAR♠️ ━━━━━━━━━┛
 ```
 
-<details>
-<summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
-<h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
+
+<h2 align="center"><b>⠂Github Stats⠐
 <br>
 <br>
 
@@ -39,41 +38,31 @@
 
 </a>
 </b></h2>  
-</details>
 
-<details>
-<summary>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠂</summary>
-<h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
+
+<h2 align="center"><b>⠂Most Used Language⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=XnKiT&layout=compact&theme=midnight-purple&hide=Css">
     <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XnKiT&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
 </b></h2>  
-</details>
 
-<details>
-<summary>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐</summary>
-<h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
+<h2 align="center"><b>⠂Contact Me⠐
   <br>
   <br>
   
   
 [![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](mailto:xnkitkumar@gmail.com)</b></h2>
-</details>
 
 
-
-<details>
-<summary>⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐</summary>
-<h2 align="center"><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
+<h2 align="center"><b> ⠂Social Media Accounts⠐
   <br>
   <br>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/XnKiT_K) 
 [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/XnKiTKuMaR) 
 [![github](https://img.shields.io/badge/Github-%230D101E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XnKiT)</b></h2> 
-</details>
 
 ----
 [![Metrics](https://metrics.lecoq.io/XnKiT?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://xnkit.github.io/k)
