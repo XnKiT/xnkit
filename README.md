@@ -9,13 +9,12 @@
 </p> 
 <br>
 
-
-python
+```
 Name = "Ankit Kumar"
 Class = "10th"
 Age = "15"
 Country = "🇮🇳"
-
+```
 
 <details>
 <summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
