@@ -24,7 +24,6 @@ Country = "🇮🇳"
 
 ----
 ![GitHub followers](https://img.shields.io/github/followers/XnKiT?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=XnKiT.XnKiT)
 [![Profile views](https://komarev.com/ghpvc/?username=XnKiT&label=Profile%20views)](https://github.com/XnKiT)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=XnKiT)
   
