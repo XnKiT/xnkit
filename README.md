@@ -36,8 +36,11 @@
 <a href="https://github-readme-stats.vercel.app/api?username=XnKiT&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
     <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=XnKiT&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 
-</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=XnKiT&count_private=true&line_height=21&&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
+
+  </a>
 </b></h2>  
+
 
 
 <h2 align="center"><b>⠂Most Used Language⠐
